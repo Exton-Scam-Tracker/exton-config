@@ -1,0 +1,34 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "About Exton Server Pass",
+      "description": "Many want to add the Twitter Checker functionality to their servers or use it with fewer limitations. That's why we’re presenting the plans for those who are interested. Whether you're managing a small community or a large server, our plans are designed to meet your needs.\n\nWe offer four distinct tiers for server groups and individual members, each packed with unique benefits tailored to suit varying requirements",
+      "color": null
+    },
+    {
+      "title": "Tiers",
+      "description": "⚠️ *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n⚠️ *Also Spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
+      "color": 5810431,
+      "fields": [
+        {
+          "name": "Pathfinder (~~$70,83~~ → $<pricePerMonth-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
+          "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
+        },
+        {
+          "name": "Safeguard ($88.26 → $<pricePerMonth-safeguard> for 3 months! 🎉 or $<pricePerMonth-safeguard> per month)",
+          "value": "✅ <checks-safeguard> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-safeguard> spots left"
+        },
+        {
+          "name": "Skyline ($146.49 → $<pricePerMonth-skyline> for 3 months! 🎉 or $<pricePerMonth-skyline> per month)",
+          "value": "✅ <checks-skyline> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-skyline> spots left"
+        },
+        {
+          "name": "Tracker ($234.15 → $<pricePerMonth-tracker> for 3 months! 🎉 or $<pricePerMonth-tracker> per month)",
+          "value": "✅ <checks-tracker> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-tracker> spots left"
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}
