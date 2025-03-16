@@ -4,7 +4,7 @@
       "name": "Pathfinder",
       "pricePerMonth": 0.01,
       "price3months": 0.03,
-      "checks": 0,
+      "checks": 1,
       "spotsLeft": 30,
       "ID": "pathfinder",
       "roleID": "1348842132349255792"
