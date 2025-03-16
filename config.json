@@ -1,0 +1,40 @@
+{
+  "tiers": [
+    {
+      "name": "Pathfinder",
+      "pricePerMonth": 0.01,
+      "price3months": 0.03,
+      "checks": 0,
+      "spotsLeft": 30,
+      "ID": "pathfinder",
+      "roleID": "1348842132349255792"
+    },
+    {
+      "name": "Safeguard",
+      "pricePerMonth": 0.11,
+      "price3months": 0.13,
+      "checks": 10,
+      "spotsLeft": 20,
+      "ID": "safeguard",
+      "roleID": "1348842132349255792"
+    },
+    {
+      "name": "Skyline",
+      "pricePerMonth": 0.21,
+      "price3months": 0.23,
+      "checks": 15,
+      "spotsLeft": 10,
+      "ID": "skyline",
+      "roleID": "1348842132349255792"
+    },
+    {
+      "name": "Tracker",
+      "pricePerMonth": 0.31,
+      "price3months": 0.33,
+      "checks": 25,
+      "spotsLeft": 5,
+      "ID": "tracker",
+      "roleID": "1348842132349255792"
+    }
+  ]
+}
