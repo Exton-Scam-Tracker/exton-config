@@ -4,7 +4,7 @@
       "name": "Pathfinder",
       "pricePerMonth": 0.01,
       "price3months": 0.03,
-      "checks": 1,
+      "checks": 0,
       "spotsLeft": 30,
       "ID": "pathfinder",
       "roleID": "1348842132349255792"
@@ -35,6 +35,48 @@
       "spotsLeft": 5,
       "ID": "tracker",
       "roleID": "1348842132349255792"
+    }
+  ],
+  "server-tiers": [
+    {
+      "name": "Pathfinder Server",
+      "pricePerMonth": 0.01,
+      "price3months": 0.03,
+      "checks": 10,
+      "spotsLeft": 5,
+      "realTimeChecker": false,
+      "ID": "pathfinder-server",
+      "roleID": "1351379592853586043"
+    },
+    {
+      "name": "Safeguard Server",
+      "pricePerMonth": 0.11,
+      "price3months": 0.13,
+      "checks": 20,
+      "spotsLeft": 5,
+      "realTimeChecker": true,
+      "ID": "safeguard-server",
+      "roleID": "1351379592853586043"
+    },
+    {
+      "name": "Skyline Server",
+      "pricePerMonth": 0.21,
+      "price3months": 0.23,
+      "checks": 30,
+      "spotsLeft": 5,
+      "realTimeChecker": true,
+      "ID": "skyline-server",
+      "roleID": "1351379592853586043"
+    },
+    {
+      "name": "Tracker Server",
+      "pricePerMonth": 0.31,
+      "price3months": 0.33,
+      "checks": 40,
+      "spotsLeft": 5,
+      "realTimeChecker": true,
+      "ID": "tracker-server",
+      "roleID": "1351379592853586043"
     }
   ]
 }
