@@ -11,23 +11,23 @@
       "color": 16705372,
       "fields": [
         {
-          "name": "Pathfinder (**$70.83** → **$<price3months-pathfinder-server> for 3 months!** 🎉 or **$<pricePerMonth-pathfinder-server> per month**)",
-          "value": "✅ <checks-pathfinder-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-pathfinder-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-pathfinder-server>** spots left",
+          "name": "Pathfinder (**$70.83** → **$<price3months-pathfinderServer> for 3 months!** 🎉 or **$<pricePerMonth-pathfinderServer> per month**)",
+          "value": "✅ <checks-pathfinderServer> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-pathfinderServer> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-pathfinderServer>** spots left",
           "inline": false
         },
         {
-          "name": "Safeguard (**$88.26** → **$<price3months-safeguard-server> for 3 months!** 🎉 or **$<pricePerMonth-safeguard-server> per month**)",
-          "value": "✅ <checks-safeguard-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-safeguard-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-safeguard-server>** spots left",
+          "name": "Safeguard (**$88.26** → **$<price3months-safeguardServer> for 3 months!** 🎉 or **$<pricePerMonth-safeguardServer> per month**)",
+          "value": "✅ <checks-safeguardServer> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-safeguardServer> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-safeguardServer>** spots left",
           "inline": false
         },
         {
-          "name": "Skyline (**$146.49** → **$<price3months-skyline-server> for 3 months!** 🎉 or **$<pricePerMonth-skyline-server> per month**)",
-          "value": "✅ <checks-skyline-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-skyline-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-skyline-server>** spots left",
+          "name": "Skyline (**$146.49** → **$<price3months-skylineServer> for 3 months!** 🎉 or **$<pricePerMonth-skylineServer> per month**)",
+          "value": "✅ <checks-skylineServer> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-skylineServer> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-skylineServer>** spots left",
           "inline": false
         },
         {
-          "name": "Tracker (**$234.15** → **$<price3months-tracker-server> for 3 months!** 🎉 or **$<pricePerMonth-tracker-server> per month**)",
-          "value": "✅ <checks-tracker-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-tracker-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-tracker-server>** spots left",
+          "name": "Tracker (**$234.15** → **$<price3months-trackerServer> for 3 months!** 🎉 or **$<pricePerMonth-trackerServer> per month**)",
+          "value": "✅ <checks-trackerServer> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-trackerServer> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-trackerServer>** spots left",
           "inline": false
         }
       ]
