@@ -1,0 +1,36 @@
+{
+  "embeds": [
+    {
+      "title": "About Exton Server Pass",
+      "description": "Many want to add the Twitter Checker functionality to their servers or use it with fewer limitations. That’s why we’re presenting the plans for those who are interested. Whether you’re managing a small community or a large server, our plans are designed to meet your needs.\n\nWe offer four distinct tiers for server groups and individual members, each packed with unique benefits tailored to suit varying requirements.",
+      "color": 3447003
+    },
+    {
+      "title": "Tiers",
+      "description": "⚠️ **Repeated checks don’t count.** For more details, see our docs to review our terms and services.\n\n⚠️ **Also Spots are limited to maintain optimal server performance and ensure dedicated support for all users**",
+      "color": 16705372,
+      "fields": [
+        {
+          "name": "Pathfinder (**$70.83** → **$<price3months-pathfinder-server> for 3 months!** 🎉 or **$<pricePerMonth-pathfinder-server> per month**)",
+          "value": "✅ <checks-pathfinder-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-pathfinder-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-pathfinder-server>** spots left",
+          "inline": false
+        },
+        {
+          "name": "Safeguard (**$88.26** → **$<price3months-safeguard-server> for 3 months!** 🎉 or **$<pricePerMonth-safeguard-server> per month**)",
+          "value": "✅ <checks-safeguard-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-safeguard-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-safeguard-server>** spots left",
+          "inline": false
+        },
+        {
+          "name": "Skyline (**$146.49** → **$<price3months-skyline-server> for 3 months!** 🎉 or **$<pricePerMonth-skyline-server> per month**)",
+          "value": "✅ <checks-skyline-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-skyline-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-skyline-server>** spots left",
+          "inline": false
+        },
+        {
+          "name": "Tracker (**$234.15** → **$<price3months-tracker-server> for 3 months!** 🎉 or **$<pricePerMonth-tracker-server> per month**)",
+          "value": "✅ <checks-tracker-server> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n<realTimeChecker-tracker-server> Real-time scam checker when a new member joins *(coming soon)*\n\n⏳ Only **<spotsLeft-tracker-server>** spots left",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
