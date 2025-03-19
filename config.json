@@ -2,81 +2,81 @@
   "tiers": [
     {
       "name": "Seeker",
-      "pricePerMonth": 0.01,
-      "price3months": 0.03,
+      "pricePerMonth": 38.97,
+      "price3months": 14.99,
       "checks": 0,
       "spotsLeft": 30,
       "ID": "pathfinder",
-      "roleID": "1348842132349255792"
+      "roleID": "1350544713085751337"
     },
     {
       "name": "Explorer",
-      "pricePerMonth": 0.11,
-      "price3months": 0.13,
+      "pricePerMonth": 70.83,
+      "price3months": 64.83,
       "checks": 10,
       "spotsLeft": 20,
       "ID": "safeguard",
-      "roleID": "1348842132349255792"
+      "roleID": "1350544908695502958"
     },
     {
       "name": "Pioneer",
-      "pricePerMonth": 0.21,
-      "price3months": 0.23,
+      "pricePerMonth": 82.26,
+      "price3months": 29.42,
       "checks": 15,
       "spotsLeft": 10,
       "ID": "skyline",
-      "roleID": "1348842132349255792"
+      "roleID": "1350544965779980439"
     },
     {
       "name": "Voyager",
-      "pricePerMonth": 0.31,
-      "price3months": 0.33,
+      "pricePerMonth": 117.09,
+      "price3months": 41.03,
       "checks": 25,
       "spotsLeft": 5,
       "ID": "tracker",
-      "roleID": "1348842132349255792"
+      "roleID": "1350549318947573901"
     }
   ],
   "serverTiers": [
     {
       "name": "Pathfinder",
-      "pricePerMonth": 0.01,
-      "price3months": 0.03,
+      "pricePerMonth": 23.61,
+      "price3months": 64.83,
       "checks": 10,
-      "spotsLeft": 5,
+      "spotsLeft": 10,
       "realTimeChecker": false,
       "ID": "pathfinderServer",
-      "roleID": "1351379592853586043"
+      "roleID": "1339772294066602024"
     },
     {
       "name": "Safeguard",
-      "pricePerMonth": 0.11,
-      "price3months": 0.13,
-      "checks": 20,
-      "spotsLeft": 5,
+      "pricePerMonth": 29.42,
+      "price3months": 82.26,
+      "checks": 15,
+      "spotsLeft": 9,
       "realTimeChecker": true,
       "ID": "safeguardServer",
-      "roleID": "1351379592853586043"
+      "roleID": "1333137420597858456"
     },
     {
       "name": "Skyline",
-      "pricePerMonth": 0.21,
-      "price3months": 0.23,
+      "pricePerMonth": 42.83,
+      "price3months": 140.49,
       "checks": 30,
-      "spotsLeft": 5,
+      "spotsLeft": 9,
       "realTimeChecker": true,
       "ID": "skylineServer",
-      "roleID": "1351379592853586043"
+      "roleID": "1333139218234478665"
     },
     {
       "name": "Tracker",
-      "pricePerMonth": 0.31,
-      "price3months": 0.33,
-      "checks": 40,
+      "pricePerMonth": 228.15,
+      "price3months": 72.05,
+      "checks": 50,
       "spotsLeft": 5,
       "realTimeChecker": true,
       "ID": "trackerServer",
-      "roleID": "1351379592853586043"
+      "roleID": "1333139293429829884"
     }
   ]
 }
