@@ -1,7 +1,7 @@
 {
   "tiers": [
     {
-      "name": "Pathfinder",
+      "name": "Seeker",
       "pricePerMonth": 0.01,
       "price3months": 0.03,
       "checks": 0,
@@ -10,7 +10,7 @@
       "roleID": "1348842132349255792"
     },
     {
-      "name": "Safeguard",
+      "name": "Explorer",
       "pricePerMonth": 0.11,
       "price3months": 0.13,
       "checks": 10,
@@ -19,7 +19,7 @@
       "roleID": "1348842132349255792"
     },
     {
-      "name": "Skyline",
+      "name": "Pioneer",
       "pricePerMonth": 0.21,
       "price3months": 0.23,
       "checks": 15,
@@ -28,7 +28,7 @@
       "roleID": "1348842132349255792"
     },
     {
-      "name": "Tracker",
+      "name": "Voyager",
       "pricePerMonth": 0.31,
       "price3months": 0.33,
       "checks": 25,
@@ -39,7 +39,7 @@
   ],
   "serverTiers": [
     {
-      "name": "Pathfinder Server",
+      "name": "Pathfinder",
       "pricePerMonth": 0.01,
       "price3months": 0.03,
       "checks": 10,
@@ -49,7 +49,7 @@
       "roleID": "1351379592853586043"
     },
     {
-      "name": "Safeguard Server",
+      "name": "Safeguard",
       "pricePerMonth": 0.11,
       "price3months": 0.13,
       "checks": 20,
@@ -59,7 +59,7 @@
       "roleID": "1351379592853586043"
     },
     {
-      "name": "Skyline Server",
+      "name": "Skyline",
       "pricePerMonth": 0.21,
       "price3months": 0.23,
       "checks": 30,
@@ -69,7 +69,7 @@
       "roleID": "1351379592853586043"
     },
     {
-      "name": "Tracker Server",
+      "name": "Tracker",
       "pricePerMonth": 0.31,
       "price3months": 0.33,
       "checks": 40,
