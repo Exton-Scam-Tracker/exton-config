@@ -40,7 +40,7 @@
   "serverTiers": [
     {
       "name": "Pathfinder",
-      "pricePerMonth": 23.61,
+      "pricePerMonth": 0.01,
       "price3months": 64.83,
       "checks": 10,
       "spotsLeft": 10,
