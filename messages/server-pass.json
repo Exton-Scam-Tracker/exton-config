@@ -12,19 +12,19 @@
       "color": 5810431,
       "fields": [
         {
-          "name": "Pathfinder (~~$70.83~~ → <pricePerMonth-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
+          "name": "Pathfinder (~~$70.83~~ → $<price3months-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
           "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
         },
         {
-          "name": "Safeguard (~~$88.26~~ → $82.26 for 3 months! 🎉 or $29.42 per month)",
+          "name": "Safeguard (~~$88.26~~ → $<price3months-safeguard> for 3 months! 🎉 or $<pricePerMonth-safeguard> per month)",
           "value": "✅ <checks-safeguard> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-safeguard> spots left"
         },
         {
-          "name": "Skyline (~~$146.49~~ → $140.49 for 3 months! 🎉 or $42.83 per month)",
+          "name": "Skyline (~~$146.49~~ → $<price3months-skyline> for 3 months! 🎉 or $<pricePerMonth-skyline> per month)",
           "value": "✅ <checks-skyline> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-skyline> spots left"
         },
         {
-          "name": "Tracker (~~$234.15~~ → $228.15 for 3 months! 🎉 or $72.05 per month)",
+          "name": "Tracker (~~$234.15~~ → $<price3months-tracker> for 3 months! 🎉 or $<pricePerMonth-tracker> per month)",
           "value": "✅ <checks-tracker> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-tracker> spots left"
         }
       ]
