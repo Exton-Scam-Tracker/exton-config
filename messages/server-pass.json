@@ -12,7 +12,7 @@
       "color": 5810431,
       "fields": [
         {
-          "name": "Pathfinder (~~$70.83~~ → $64.83 for 3 months! 🎉 or $23.61 per month)",
+          "name": "Pathfinder (~~$70.83~~ → <pricePerMonth-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
           "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
         },
         {
