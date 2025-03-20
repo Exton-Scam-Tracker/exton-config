@@ -2,30 +2,30 @@
   "content": null,
   "embeds": [
     {
-      "title": "About Exton Server Pass",
-      "description": "Many want to add the Twitter Checker functionality to their servers or use it with fewer limitations. That's why we’re presenting the plans for those who are interested. Whether you're managing a small community or a large server, our plans are designed to meet your needs.\n\nWe offer four distinct tiers for server groups and individual members, each packed with unique benefits tailored to suit varying requirements",
+      "title": "About Exton Member Pass", 
+      "description": "With Member Pass, you can use the Twitter Checker inside our Discord with special limits and exclusive benefits. Gain access to a powerful tool that helps you verify identities, detect scams, and stay ahead in the Web3 space. Whether you're an individual looking for extra security or a community manager ensuring a safer environment, our plans are designed to meet your needs.",
       "color": null
     },
     {
       "title": "Tiers",
-      "description": "⚠️ *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n⚠️ *Also Spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
+      "description": ":warning: *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n:warning: *Also Spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
       "color": 5810431,
       "fields": [
         {
-          "name": "Pathfinder (~~$70,83~~ → $<pricePerMonth-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
-          "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
+          "name": "Seeker (~~$44.97~~ → $38.97 for 3 months! :tada: or $14.99 per month)",
+          "value": ":white_check_mark: <checks-Seeker> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Seeker> spots available"
         },
         {
-          "name": "Safeguard ($88.26 → $<pricePerMonth-safeguard> for 3 months! 🎉 or $<pricePerMonth-safeguard> per month)",
-          "value": "✅ <checks-safeguard> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-safeguard> spots left"
+          "name": "Explorer (~~$70.83~~ → $64.83 for 3 months! :tada: or $23.61 per month)",
+          "value": ":white_check_mark: <checks-Explorer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Explorer> spots available"
         },
         {
-          "name": "Skyline ($146.49 → $<pricePerMonth-skyline> for 3 months! 🎉 or $<pricePerMonth-skyline> per month)",
-          "value": "✅ <checks-skyline> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-skyline> spots left"
+          "name": "Pioneer (~~$88.26~~ → $82.26 for 3 months! :tada: or $29.42 per month)",
+          "value": ":white_check_mark: <checks-Pioneer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Pioneer> spots available"
         },
         {
-          "name": "Tracker ($234.15 → $<pricePerMonth-tracker> for 3 months! 🎉 or $<pricePerMonth-tracker> per month)",
-          "value": "✅ <checks-tracker> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-tracker> spots left"
+          "name": "Voyager (~~$123.09~~ → $117.09 for 3 months! :tada: or $41.03 per month)",
+          "value": ":white_check_mark: <checks-Voyager> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Voyager> spots available"
         }
       ]
     }
