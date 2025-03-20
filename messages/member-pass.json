@@ -12,19 +12,19 @@
       "color": 5810431,
       "fields": [
         {
-          "name": "Seeker (~~$44.97~~ → $38.97 for 3 months! :tada: or $14.99 per month)",
+          "name": "Seeker (~~$44.97~~ → $<price3months-seeker> for 3 months! :tada: or $<pricePerMonth-seeker> per month)",
           "value": ":white_check_mark: <checks-seeker> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-seeker> spots available"
         },
         {
-          "name": "Explorer (~~$70.83~~ → $64.83 for 3 months! :tada: or $23.61 per month)",
+          "name": "Explorer (~~$70.83~~ → $<price3months-explorer> for 3 months! :tada: or $<pricePerMonth-explorer> per month)",
           "value": ":white_check_mark: <checks-explorer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-explorer> spots available"
         },
         {
-          "name": "Pioneer (~~$88.26~~ → $82.26 for 3 months! :tada: or $29.42 per month)",
+          "name": "Pioneer (~~$88.26~~ → $<price3months-pioneer> for 3 months! :tada: or $<pricePerMonth-pioneer> per month)",
           "value": ":white_check_mark: <checks-pioneer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-pioneer> spots available"
         },
         {
-          "name": "Voyager (~~$123.09~~ → $117.09 for 3 months! :tada: or $41.03 per month)",
+          "name": "Voyager (~~$123.09~~ → $<price3months-voyager> for 3 months! :tada: or $<pricePerMonth-voyager> per month)",
           "value": ":white_check_mark: <checks-voyager> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-voyager> spots available"
         }
       ]
