@@ -13,19 +13,19 @@
       "fields": [
         {
           "name": "Seeker (~~$44.97~~ → $38.97 for 3 months! :tada: or $14.99 per month)",
-          "value": ":white_check_mark: <checks-Seeker> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Seeker> spots available"
+          "value": ":white_check_mark: <checks-seeker> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-seeker> spots available"
         },
         {
           "name": "Explorer (~~$70.83~~ → $64.83 for 3 months! :tada: or $23.61 per month)",
-          "value": ":white_check_mark: <checks-Explorer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Explorer> spots available"
+          "value": ":white_check_mark: <checks-explorer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-explorer> spots available"
         },
         {
           "name": "Pioneer (~~$88.26~~ → $82.26 for 3 months! :tada: or $29.42 per month)",
-          "value": ":white_check_mark: <checks-Pioneer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Pioneer> spots available"
+          "value": ":white_check_mark: <checks-pioneer> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-pioneer> spots available"
         },
         {
           "name": "Voyager (~~$123.09~~ → $117.09 for 3 months! :tada: or $41.03 per month)",
-          "value": ":white_check_mark: <checks-Voyager> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-Voyager> spots available"
+          "value": ":white_check_mark: <checks-voyager> checks per day\n:white_check_mark: Special giveaways\n:white_check_mark: Special role\n\n:hourglass_flowing_sand: Only <spotsLeft-voyager> spots available"
         }
       ]
     }
