@@ -45,7 +45,7 @@
       "checks": 10,
       "spotsLeft": 10,
       "realTimeChecker": false,
-      "ID": "pathfinderServer",
+      "ID": "pathfinder",
       "roleID": "1339772294066602024"
     },
     {
@@ -55,7 +55,7 @@
       "checks": 15,
       "spotsLeft": 9,
       "realTimeChecker": true,
-      "ID": "safeguardServer",
+      "ID": "safeguard",
       "roleID": "1333137420597858456"
     },
     {
@@ -65,7 +65,7 @@
       "checks": 30,
       "spotsLeft": 9,
       "realTimeChecker": true,
-      "ID": "skylineServer",
+      "ID": "skyline",
       "roleID": "1333139218234478665"
     },
     {
@@ -75,7 +75,7 @@
       "checks": 50,
       "spotsLeft": 5,
       "realTimeChecker": true,
-      "ID": "trackerServer",
+      "ID": "tracker",
       "roleID": "1333139293429829884"
     }
   ]
