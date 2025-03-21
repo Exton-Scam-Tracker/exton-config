@@ -2,8 +2,8 @@
   "tiers": [
     {
       "name": "Seeker",
-      "pricePerMonth": 38.97,
-      "price3months": 14.99,
+      "pricePerMonth": 14.99,
+      "price3months": 38.97,
       "checks": 0,
       "spotsLeft": 30,
       "ID": "seeker",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Explorer",
-      "pricePerMonth": 70.83,
+      "pricePerMonth": 23.61,
       "price3months": 64.83,
       "checks": 10,
       "spotsLeft": 20,
@@ -20,8 +20,8 @@
     },
     {
       "name": "Pioneer",
-      "pricePerMonth": 82.26,
-      "price3months": 29.42,
+      "pricePerMonth": 29.42,
+      "price3months": 82.26,
       "checks": 15,
       "spotsLeft": 10,
       "ID": "pioneer",
@@ -29,8 +29,8 @@
     },
     {
       "name": "Voyager",
-      "pricePerMonth": 117.09,
-      "price3months": 41.03,
+      "pricePerMonth": 41.03,
+      "price3months": 117.09,
       "checks": 25,
       "spotsLeft": 5,
       "ID": "voyager",
@@ -60,8 +60,8 @@
     },
     {
       "name": "Skyline",
-      "pricePerMonth": 42.83,
-      "price3months": 140.49,
+      "pricePerMonth": 46.83,
+      "price3months": 127.49,
       "checks": 30,
       "spotsLeft": 9,
       "realTimeChecker": true,
@@ -70,8 +70,8 @@
     },
     {
       "name": "Tracker",
-      "pricePerMonth": 228.15,
-      "price3months": 72.05,
+      "pricePerMonth": 72.05,
+      "price3months": 204.15,
       "checks": 50,
       "spotsLeft": 5,
       "realTimeChecker": true,
