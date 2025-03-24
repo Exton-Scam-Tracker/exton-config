@@ -15,6 +15,10 @@
           "value": "Check a user's profile for suspicious activity or reports in our database. Keep your community safe with this quick verification"
         },
         {
+          "name": "/report",
+          "value": "Submit a quick report on a suspicious user. Your report helps expand our database and keep the community safer."
+        },
+        {
           "name": "How to Register a Report",
           "value": "Click the button below to make a report directly in the Exton Discord. Help us keep the space secure by sharing important details about potential scams"
         },
