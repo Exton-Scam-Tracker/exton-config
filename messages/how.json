@@ -1,0 +1,38 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 3062527,
+      "title": "Available Commands",
+      "description": "Here are some commands you can use:",
+      "fields": [
+        {
+          "name": "/oldnames",
+          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers"
+        },
+        {
+          "name": "/scan",
+          "value": "Check a user's profile for suspicious activity or reports in our database. Keep your community safe with this quick verification"
+        },
+        {
+          "name": "How to Register a Report",
+          "value": "Click the button below to make a report directly in the Exton Discord. Help us keep the space secure by sharing important details about potential scams"
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
+          "name": "Quick Guide",
+          "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
+        }
+      ],
+      "footer": {
+        "text": "If you need more help, contact the server administrator."
+      },
+      "timestamp": "2025-03-23T00:00:00Z"
+    }
+  ]
+}
+
