@@ -2,10 +2,10 @@
   "tiers": [
     {
       "name": "Seeker",
-      "pricePerMonth": 1,
+      "pricePerMonth": 14.99,
       "price3months": 38.97,
       "checks": 0,
-      "spotsLeft": 30,
+      "spotsLeft": 3,
       "ID": "seeker",
       "roleID": "1350544713085751337"
     },
@@ -40,10 +40,10 @@
   "serverTiers": [
     {
       "name": "Pathfinder",
-      "pricePerMonth": 1,
+      "pricePerMonth": 23.61,
       "price3months": 64.83,
       "checks": 10,
-      "spotsLeft": 10,
+      "spotsLeft": 4,
       "realTimeChecker": false,
       "ID": "pathfinder",
       "roleID": "1339772294066602024"
