@@ -19,6 +19,14 @@
           "value": "Submit a quick report on a suspicious user. Your report helps expand our database and keep the community safer."
         },
         {
+          "name": "/monitor add",
+          "value": "Track a Twitter account and get real-time updates when they post.(Note: only the server's admin can use this command)"
+        },
+        {
+          "name": "/monitor list",
+          "value": "View all Twitter accounts currently being monitored by your server or by you."
+        },
+        {
           "name": "How to Register a Report",
           "value": "Click the button below to make a report directly in the Exton Discord. Help us keep the space secure by sharing important details about potential scams"
         },
