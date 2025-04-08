@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "About Exton Server Pass",
-      "description": "Many want to add the Twitter Checker functionality to their servers or use it with fewer limitations. That's why we’re presenting the plans for those who are interested. Whether you're managing a small community or a large server, our plans are designed to meet your needs.\n\nWe offer four distinct tiers for server groups and individual members, each packed with unique benefits tailored to suit varying requirements.",
+      "description": "Looking to boost your community's safety and efficiency? With the Server Pass, your Discord gets access to our full Twitter Checker system, tailored for teams and communities. Monitor unlimited Twitter accounts, receive real-time alerts, and allow specific roles to run checks directly. Whether you're managing a tight-knit alpha group or a growing project, our plans scale with your needs and keep your members protected.",
       "color": null
     },
     {
@@ -13,19 +13,19 @@
       "fields": [
         {
           "name": "Pathfinder (~~$70.83~~ → $<price3months-pathfinder> for 3 months! 🎉 or $<pricePerMonth-pathfinder> per month)",
-          "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
+          "value": "✅ <checks-pathfinder> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Tweet alerts from unlimited accounts (Twitter Monitor)\n✅ Special role\n✅ Special giveaways\n❌ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-pathfinder> spots left"
         },
         {
           "name": "Safeguard (~~$88.26~~ → $<price3months-safeguard> for 3 months! 🎉 or $<pricePerMonth-safeguard> per month)",
-          "value": "✅ <checks-safeguard> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-safeguard> spots left"
+          "value": "✅ <checks-safeguard> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Tweet alerts from unlimited accounts (Twitter Monitor)\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-safeguard> spots left"
         },
         {
           "name": "Skyline (~~$146.49~~ → $<price3months-skyline> for 3 months! 🎉 or $<pricePerMonth-skyline> per month)",
-          "value": "✅ <checks-skyline> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-skyline> spots left"
+          "value": "✅ <checks-skyline> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Tweet alerts from unlimited accounts (Twitter Monitor)\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-skyline> spots left"
         },
         {
           "name": "Tracker (~~$234.15~~ → $<price3months-tracker> for 3 months! 🎉 or $<pricePerMonth-tracker> per month)",
-          "value": "✅ <checks-tracker> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-tracker> spots left"
+          "value": "✅ <checks-tracker> checks per day\n✅ Allows specific roles to use the Twitter Checker within your Discord\n✅ Tweet alerts from unlimited accounts (Twitter Monitor)\n✅ Special role\n✅ Special giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-tracker> spots left"
         }
       ]
     }
