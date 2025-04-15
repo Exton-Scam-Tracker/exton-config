@@ -2,80 +2,35 @@
   "tiers": [
     {
       "name": "Seeker",
-      "pricePerMonth": 14.99,
-      "price3months": 38.97,
-      "checks": 0,
-      "spotsLeft": 3,
+      "pricePerMonth": 12.99,
+      "price3months": 38.95,
+      // "price6months": 72.72, 
+      "checks": 300,
+      "spotsLeft": 20,
       "ID": "seeker",
       "roleID": "1350544713085751337"
     },
     {
-      "name": "Explorer",
-      "pricePerMonth": 23.61,
-      "price3months": 64.83,
-      "checks": 10,
-      "spotsLeft": 20,
-      "ID": "explorer",
-      "roleID": "1350544908695502958"
-    },
-    {
       "name": "Pioneer",
-      "pricePerMonth": 29.42,
-      "price3months": 82.26,
-      "checks": 15,
+      "pricePerMonth": 23.61,
+      "price3months": 67.83,
+      // "price6months": 127.22, 
+      "checks": 300,
       "spotsLeft": 10,
       "ID": "pioneer",
       "roleID": "1350544965779980439"
-    },
-    {
-      "name": "Voyager",
-      "pricePerMonth": 41.03,
-      "price3months": 117.09,
-      "checks": 25,
-      "spotsLeft": 5,
-      "ID": "voyager",
-      "roleID": "1350549318947573901"
     }
   ],
   "serverTiers": [
     {
       "name": "Pathfinder",
-      "pricePerMonth": 23.61,
-      "price3months": 64.83,
-      "checks": 10,
-      "spotsLeft": 4,
-      "realTimeChecker": false,
-      "ID": "pathfinder",
-      "roleID": "1339772294066602024"
-    },
-    {
-      "name": "Safeguard",
-      "pricePerMonth": 29.42,
-      "price3months": 82.26,
-      "checks": 15,
-      "spotsLeft": 9,
-      "realTimeChecker": true,
-      "ID": "safeguard",
-      "roleID": "1333137420597858456"
-    },
-    {
-      "name": "Skyline",
-      "pricePerMonth": 46.83,
-      "price3months": 127.49,
-      "checks": 30,
-      "spotsLeft": 9,
-      "realTimeChecker": true,
-      "ID": "skyline",
-      "roleID": "1333139218234478665"
-    },
-    {
-      "name": "Tracker",
-      "pricePerMonth": 72.05,
-      "price3months": 204.15,
-      "checks": 50,
+      "pricePerMonth": 32.42,
+      "price3months": 97.26,
+      // "price6months": 193.08, 
+      "checks": -1,
       "spotsLeft": 5,
       "realTimeChecker": true,
-      "ID": "tracker",
+      "ID": "server",
       "roleID": "1333139293429829884"
     }
   ]
