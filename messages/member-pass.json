@@ -1,4 +1,3 @@
-
 {
   "content": null,
   "embeds": [
@@ -14,11 +13,11 @@
       "fields": [
         {
           "name": "Seeker (**6% off** → $<price3months-seeker> for 3 months! :tada: or $<pricePerMonth-seeker> per month)",
-          "value": ":white_check_mark: Unlimited reused Twitter username checks via DM or on Exton’s official Discord\n:white_check_mark: Access to exclusive Seeker giveaways\n:white_check_mark: Special Seeker role\n\n:hourglass_flowing_sand: Only <spotsLeft-seeker> spots available"
+          "value": ":white_check_mark: Twitter Monitor with no limits (Beta)\n:white_check_mark: Access to exclusive Seeker giveaways\n:white_check_mark: Special Seeker role\n\n:hourglass_flowing_sand: Only <spotsLeft-seeker> spots available"
         },
         {
           "name": "Pioneer (**6% off** → $<price3months-pioneer> for 3 months! :tada: or $<pricePerMonth-pioneer> per month)",
-          "value": ":white_check_mark: Unlimited reused username history checks via DM or on Exton’s official Discord\n:white_check_mark: Unlimited reused Twitter username checks (no cap – in beta)\n:white_check_mark: Access to exclusive Pioneer giveaways\n:white_check_mark: Special Pioneer role\n\n:hourglass_flowing_sand: Only <spotsLeft-pioneer> spots available"
+          "value": ":white_check_mark: Unlimited reused username history checks (via DM or Exton’s official Discord)\n:white_check_mark: Unlimited reused Twitter username checks (Beta) with no cap\n:white_check_mark: Twitter Monitor with no limits (Beta)\n:white_check_mark: Access to exclusive Pioneer giveaways\n:white_check_mark: Special Pioneer role\n\n:hourglass_flowing_sand: Only <spotsLeft-pioneer> spots available"
         }
       ]
     }
