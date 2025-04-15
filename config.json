@@ -4,7 +4,7 @@
       "name": "Seeker",
       "pricePerMonth": 12.99,
       "price3months": 38.95, 
-      "checks": 300,
+      "checks": 0,
       "spotsLeft": 20,
       "ID": "seeker",
       "roleID": "1350544713085751337"
