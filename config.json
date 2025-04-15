@@ -10,13 +10,13 @@
       "roleID": "1350544713085751337"
     },
     {
-      "name": "Pioneer",
-      "pricePerMonth": 23.61,
-      "price3months": 67.83,
-      "checks": 300,
-      "spotsLeft": 10,
-      "ID": "pioneer",
-      "roleID": "1350544965779980439"
+  "name": "Pioneer",
+  "pricePerMonth": 25.61,
+  "price3months": 72.13,
+  "checks": 300,
+  "spotsLeft": 10,
+  "ID": "pioneer",
+  "roleID": "1350544965779980439"
     }
   ],
   "serverTiers": [
