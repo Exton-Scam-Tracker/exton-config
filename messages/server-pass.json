@@ -7,13 +7,13 @@
       "color": null
     },
     {
-      "title": "Pricing",
-      "description": "⚠️ *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n⚠️ *Spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
+      "title": "Tiers",
+      "description": ":warning: *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n:warning: *Spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
       "color": 5810431,
       "fields": [
         {
-          "name": "Server Pass (~~$97.26~~ → $<price3months-server> for 3 months! 🎉 or $32.42 per month)",
-          "value": "✅ Unlimited reused username checks\n✅ Allow specific roles to run Twitter checks directly in your server\n✅ Twitter Monitor with no usage limits (Beta)\n✅ Access to exclusive role and giveaways\n✅ Real-time scam checker when a new member joins (coming soon)\n\n⏳ Only <spotsLeft-server> spots left"
+          "name": "Server (~~$97.26~~ → $<price3months-server> for 3 months! :tada: or $<pricePerMonth-server> per month)",
+          "value": ":white_check_mark: Unlimited reused username checks\n:white_check_mark: Allow specific roles to run Twitter checks directly in your server\n:white_check_mark: Twitter Monitor with no usage limits (Beta)\n:white_check_mark: Access to exclusive role and giveaways\n:white_check_mark: Real-time scam checker when a new member joins (coming soon)\n\n:hourglass_flowing_sand: Only <spotsLeft-server> spots available"
         }
       ]
     }
