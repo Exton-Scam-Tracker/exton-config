@@ -27,7 +27,7 @@
       "pricePerMonth": 32.42,
       "price3months": 97.26,
       // "price6months": 193.08,
-      "checks": null,  // Indica consultas ilimitadas
+      "checks": -1,
       "spotsLeft": 5,
       "realTimeChecker": true,
       "ID": "server",
