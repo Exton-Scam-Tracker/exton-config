@@ -24,7 +24,7 @@
       "name": "Pathfinder",
       "pricePerMonth": 32.42,
       "price3months": 97.26,
-      "checks": -1,
+      "checks": 450,
       "spotsLeft": 23,
       "realTimeChecker": true,
       "ID": "server",
