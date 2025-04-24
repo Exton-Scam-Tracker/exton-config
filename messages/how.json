@@ -11,20 +11,45 @@
           "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers"
         },
         {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
           "name": "/scan",
           "value": "Check a user's profile for suspicious activity or reports in our database. Keep your community safe with this quick verification"
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
         },
         {
           "name": "/report",
           "value": "Submit a quick report on a suspicious user. Your report helps expand our database and keep the community safer."
         },
         {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
           "name": "/monitor add",
           "value": "Track a Twitter account and get real-time updates when they post.(Note: only the server's admin can use this command)"
         },
         {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
           "name": "/monitor list",
           "value": "View all Twitter accounts currently being monitored by your server or by you."
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
         },
         {
           "name": "How to Register a Report",
