@@ -61,7 +61,7 @@
           "inline": false
         },
         {
-          "name": "/scamalert",
+          "name": "/scamalert channel",
           "value": "Enable real-time scam alerts in your server. Choose the channel and stay ahead of potential threats."
         },
         {
