@@ -61,6 +61,15 @@
           "inline": false
         },
         {
+          "name": "/scamalert",
+          "value": "Enable real-time scam alerts in your server. Choose the channel and stay ahead of potential threats."
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
           "name": "Quick Guide",
           "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
         }
