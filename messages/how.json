@@ -70,6 +70,16 @@
           "inline": false
         },
         {
+          "name": "/deletedtweets",
+          "value": "See deleted tweets from any X account"
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        
+        {
           "name": "Quick Guide",
           "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
         }
