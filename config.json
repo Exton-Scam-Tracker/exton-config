@@ -27,7 +27,7 @@
       "checks": 450,
       "spotsLeft": 23,
       "realTimeChecker": true,
-      "ID": "server",
+      "ID": "pathfinder",
       "roleID": "1339772294066602024"
     }
   ]
