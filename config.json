@@ -12,13 +12,13 @@
         {
           "displayID": "seeker-3months",
           "displayMessage": "3 Months",
-          "price": 38.95,
+          "price": 36.63,
           "durationDays": 90
         },
         {
           "displayID": "seeker-6months",
           "displayMessage": "6 Months",
-          "price": 999,
+          "price": 73.26,
           "durationDays": 180
         }
       ],
@@ -45,7 +45,7 @@
         {
           "displayID": "pioneer-6months",
           "displayMessage": "6 Months",
-          "price": 999,
+          "price": 144.26,
           "durationDays": 180
         }
       ],
@@ -74,7 +74,7 @@
         {
           "displayID": "pathfinder-6months",
           "displayMessage": "6 Months",
-          "price": 282.78,
+          "price": 188.52,
           "durationDays": 180
         }
       ],
