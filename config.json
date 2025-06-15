@@ -2,28 +2,82 @@
   "tiers": [
     {
       "name": "Seeker",
-      "pricePerMonth": 12.99,
-      "price3months": 38.95,
+      "options": [
+        {
+          "displayID": "seeker-1month",
+          "displayMessage": "1 Month",
+          "price": 12.99,
+          "durationDays": 30
+        },
+        {
+          "displayID": "seeker-3months",
+          "displayMessage": "3 Months",
+          "price": 38.95,
+          "durationDays": 90
+        },
+        {
+          "displayID": "seeker-6months",
+          "displayMessage": "6 Months",
+          "price": 999,
+          "durationDays": 180
+        }
+      ],
       "checks": 0,
       "spotsLeft": 3,
       "ID": "seeker",
       "roleID": "1350544713085751337"
     },
     {
-  "name": "Pioneer",
-  "pricePerMonth": 25.61,
-  "price3months": 72.13,
-  "checks": 300,
-  "spotsLeft": 10,
-  "ID": "pioneer",
-  "roleID": "1350544965779980439"
+      "name": "Pioneer",
+      "options": [
+        {
+          "displayID": "pioneer-1month",
+          "displayMessage": "1 Month",
+          "price": 25.61,
+          "durationDays": 30
+        },
+        {
+          "displayID": "pioneer-3months",
+          "displayMessage": "3 Months",
+          "price": 72.13,
+          "durationDays": 90
+        },
+        {
+          "displayID": "pioneer-6months",
+          "displayMessage": "6 Months",
+          "price": 999,
+          "durationDays": 180
+        }
+      ],
+      "checks": 300,
+      "spotsLeft": 10,
+      "ID": "pioneer",
+      "roleID": "1350544965779980439"
     }
   ],
   "serverTiers": [
     {
       "name": "Pathfinder",
-      "pricePerMonth": 32.42,
-      "price3months": 97.26,
+      "options": [
+        {
+          "displayID": "pathfinder-1month",
+          "displayMessage": "1 Month",
+          "price": 32.42,
+          "durationDays": 30
+        },
+        {
+          "displayID": "pathfinder-3months",
+          "displayMessage": "3 Months",
+          "price": 97.26,
+          "durationDays": 90
+        },
+        {
+          "displayID": "pathfinder-6months",
+          "displayMessage": "6 Months",
+          "price": 999,
+          "durationDays": 180
+        }
+      ],
       "checks": 450,
       "spotsLeft": 23,
       "realTimeChecker": true,
