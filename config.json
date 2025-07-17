@@ -6,7 +6,7 @@
         {
           "displayID": "seeker-1month",
           "displayMessage": "1 Month",
-          "price": 12.99,
+          "price": 6,
           "durationDays": 30
         },
         {
@@ -33,7 +33,7 @@
         {
           "displayID": "pioneer-1month",
           "displayMessage": "1 Month",
-          "price": 25.61,
+          "price": 12.80,
           "durationDays": 30
         },
         {
@@ -62,7 +62,7 @@
         {
           "displayID": "pathfinder-1month",
           "displayMessage": "1 Month",
-          "price": 32.42,
+          "price": 16.21,
           "durationDays": 30
         },
         {
