@@ -1,0 +1,28 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 3062527,
+      "title": "Thank  you for adding Exton Scam Tracker to your server!",
+      "description": "Here are some commands you can use:",
+      "fields": [
+        {
+          "name": "/oldnames",
+          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers"
+        },
+        {
+          "name": "\u200B",
+          "value": "\u200B",
+          "inline": false
+        },
+        {
+          "name": "Quick Guide",
+          "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
+        }
+      ],
+      "footer": {
+        "text": "If you need more help, contact the server administrator."
+      }
+    }
+  ]
+}
