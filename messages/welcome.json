@@ -3,12 +3,20 @@
   "embeds": [
     {
       "color": 3062527,
-      "title": "Thank  you for adding Exton Scam Tracker to your server!",
+      "title": "Thank you for adding Exton Scam Tracker to your server!",
       "description": "Here are some commands you can use:",
       "fields": [
         {
+          "name": "/help",
+          "value": "Displays all available commands so you can explore the full potential of Exton Scam Tracker."
+        },
+        {
+          "name": "/monitor-add",
+          "value": "Start tracking a Twitter profile for suspicious behavior. Stay ahead of scammers in real time."
+        },
+        {
           "name": "/oldnames",
-          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers"
+          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers."
         },
         {
           "name": "\u200B",
