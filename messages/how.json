@@ -1,58 +1,55 @@
 {
-  "content": null,
   "embeds": [
     {
       "color": 3062527,
-      "title": "Available Commands",
-      "description": "Here are some commands you can use:",
+      "title": "📜 Exton — Available Commands",
+      "description": "Use these commands to detect scams and protect your community:",
       "fields": [
         {
-          "name": "/oldnames",
-          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers"
+          "name": "🆔 Oldnames",
+          "value": "`/oldnames` — View a user's past Twitter names."
         },
         {
-          "name": "/scan",
-          "value": "Check a user's profile for suspicious activity or reports in our database. Keep your community safe with this quick verification"
+          "name": "🕵️ Scan",
+          "value": "`/scan` — Check a profile for scam reports."
         },
         {
-          "name": "/report",
-          "value": "Submit a quick report on a suspicious user. Your report helps expand our database and keep the community safer."
+          "name": "📝 Report",
+          "value": "`/report` — Submit a scam report."
         },
         {
-          "name": "/monitor add",
-          "value": "Track a Twitter account and get real-time updates when they post.(Note: only the server's admin can use this command)"
+          "name": "📡 Monitor Add",
+          "value": "`/monitor add` — Track a Twitter account. *(Admin only)*"
         },
         {
-          "name": "/monitor list",
-          "value": "View all Twitter accounts currently being monitored by your server or by you."
+          "name": "📋 Monitor List",
+          "value": "`/monitor list` — View monitored accounts."
         },
         {
-          "name": "/scamalert channel",
-          "value": "Enable real-time scam alerts in your server. Choose the channel and stay ahead of potential threats."
+          "name": "🚨 Scamalert",
+          "value": "`/scamalert channel` — Enable live scam alerts."
         },
         {
-          "name": "/deletedtweets",
-          "value": "See deleted tweets from any X account"
+          "name": "🗑 Deleted Tweets",
+          "value": "`/deletedtweets` — View deleted posts."
         },
         {
           "name": "\u200B",
-          "value": "\u200B",
-          "inline": false
+          "value": "\u200B"
         },
         {
-          "name": "How to Register a Report",
-          "value": "Click the button below to make a report directly in the Exton Discord. Help us keep the space secure by sharing important details about potential scams"
+          "name": "📌 How to Report",
+          "value": "Click the button below to submit a scam report."
         },
         {
-          "name": "Quick Guide",
-          "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
+          "name": "📖 Quick Guide",
+          "value": "[📂 Open Docs](https://exton-scam-tracker.gitbook.io/docs)"
         }
       ],
       "footer": {
-        "text": "If you need more help, contact the server administrator."
+        "text": "Need help? Contact the server admin."
       },
       "timestamp": "2025-03-23T00:00:00Z"
     }
   ]
 }
-
