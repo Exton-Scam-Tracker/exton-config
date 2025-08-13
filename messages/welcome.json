@@ -1,36 +1,39 @@
 {
-  "content": null,
   "embeds": [
     {
       "color": 3062527,
-      "title": "Thank you for adding Exton Scam Tracker to your server!",
-      "description": "Here are some commands you can use:",
+      "title": "📜 Exton Scam Tracker — Commands",
+      "description": "Use these commands to monitor suspicious activity and protect your server:",
       "fields": [
         {
-          "name": "/help",
-          "value": "Displays all available commands so you can explore the full potential of Exton Scam Tracker."
+          "name": "🆘 Help",
+          "value": "`/help` — View all available commands and learn how to use them."
         },
         {
-          "name": "/monitor-add",
-          "value": "Start tracking a Twitter profile for suspicious behavior. Stay ahead of scammers in real time."
+          "name": "📡 Monitor Add",
+          "value": "`/monitor-add` — Start tracking a Twitter profile for suspicious behavior in real time."
         },
         {
-          "name": "/oldnames",
-          "value": "Retrieve a user's previous names on Twitter. Stay informed about name changes to identify potential scammers."
+          "name": "🆔 Oldnames",
+          "value": "`/oldnames` — Check a user's past Twitter names to spot potential scammers."
+        },
+        {
+          "name": "💳 Subscribe Purchase",
+          "value": "`/subscribe purchase` — Buy the Exton Pass and unlock premium features."
         },
         {
           "name": "\u200B",
-          "value": "\u200B",
-          "inline": false
+          "value": "\u200B"
         },
         {
-          "name": "Quick Guide",
-          "value": "[Click here](https://exton-scam-tracker.gitbook.io/docs) for additional documentation."
+          "name": "📖 Quick Guide",
+          "value": "[📂 Open Docs](https://exton-scam-tracker.gitbook.io/docs)"
         }
       ],
       "footer": {
-        "text": "If you need more help, contact the server administrator."
-      }
+        "text": "Need more help? Contact your server administrator."
+      },
+      "timestamp": "2025-08-13T00:00:00Z"
     }
   ]
 }
