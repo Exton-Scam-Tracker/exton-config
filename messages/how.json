@@ -1,55 +1,55 @@
 {
   "embeds": [
     {
-      "color": 3062527,
-      "title": "📜 Exton — Available Commands",
-      "description": "Use these commands to detect scams and protect your community:",
+      "title": "EXTON — AVAILABLE COMMANDS",
+      "description": "Use the commands below to detect scams and protect your community.",
+      "color": 12601618,
       "fields": [
         {
-          "name": "🆔 Oldnames",
+          "name": "Oldnames",
           "value": "`/oldnames` — View a user's past Twitter names."
         },
         {
-          "name": "🕵️ Scan",
+          "name": "Scan",
           "value": "`/scan` — Check a profile for scam reports."
         },
         {
-          "name": "📝 Report",
+          "name": "Report",
           "value": "`/report` — Submit a scam report."
         },
         {
-          "name": "📡 Monitor Add",
+          "name": "Monitor Add",
           "value": "`/monitor add` — Track a Twitter account. *(Admin only)*"
         },
         {
-          "name": "📋 Monitor List",
+          "name": "Monitor List",
           "value": "`/monitor list` — View monitored accounts."
         },
         {
-          "name": "🚨 Scamalert",
+          "name": "Scamalert",
           "value": "`/scamalert channel` — Enable live scam alerts."
         },
         {
-          "name": "🗑 Deleted Tweets",
+          "name": "Deleted Tweets",
           "value": "`/deletedtweets` — View deleted posts."
         },
         {
           "name": "\u200B",
-          "value": "\u200B"
+          "value": "---"
         },
         {
-          "name": "📌 How to Report",
+          "name": "How to Report",
           "value": "Click the button below to submit a scam report."
         },
         {
-          "name": "📖 Quick Guide",
-          "value": "[📂 Open Docs](https://exton-scam-tracker.gitbook.io/docs)"
+          "name": "Quick Guide",
+          "value": "[Open Documentation](https://exton-scam-tracker.gitbook.io/docs)"
         }
       ],
       "footer": {
         "text": "Need help? Contact the server admin."
       },
-      "timestamp": "2025-03-23T00:00:00Z"
+      "timestamp": "2026-02-24T23:00:00Z"
     }
   ]
 }
