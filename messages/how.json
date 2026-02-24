@@ -6,31 +6,31 @@
       "color": 12601618,
       "fields": [
         {
-          "name": "Oldnames",
+          "name": "\u200B",
           "value": "`/oldnames` — View a user's past Twitter names."
         },
         {
-          "name": "Scan",
+          "name": "\u200B",
           "value": "`/scan` — Check a profile for scam reports."
         },
         {
-          "name": "Report",
+          "name": "\u200B",
           "value": "`/report` — Submit a scam report."
         },
         {
-          "name": "Monitor Add",
-          "value": "`/monitor add` — Track a Twitter account. *(Admin only)*"
+          "name": "\u200B",
+          "value": "`/monitor add` — Track a Twitter account. *(Admin)*"
         },
         {
-          "name": "Monitor List",
+          "name": "\u200B",
           "value": "`/monitor list` — View monitored accounts."
         },
         {
-          "name": "Scamalert",
+          "name": "\u200B",
           "value": "`/scamalert channel` — Enable live scam alerts."
         },
         {
-          "name": "Deleted Tweets",
+          "name": "\u200B",
           "value": "`/deletedtweets` — View deleted posts."
         },
         {
@@ -38,12 +38,12 @@
           "value": "---"
         },
         {
-          "name": "How to Report",
+          "name": "\u200B",
           "value": "Click the button below to submit a scam report."
         },
         {
-          "name": "Quick Guide",
-          "value": "[Open Documentation](https://exton-scam-tracker.gitbook.io/docs)"
+          "name": "\u200B",
+          "value": "[Open Documentation Portal](https://exton-scam-tracker.gitbook.io/docs)"
         }
       ],
       "footer": {
