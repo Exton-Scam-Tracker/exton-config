@@ -1,87 +1,55 @@
 {
   "tiers": [
     {
-      "name": "Seeker",
+      "name": "Client Lite",
       "options": [
-        {
-          "displayID": "seeker-1month",
-          "displayMessage": "1 Month",
-          "price": 12.99,
-          "durationDays": 30
-        },
-        {
-          "displayID": "seeker-3months",
-          "displayMessage": "3 Months",
-          "price": 36.63,
-          "durationDays": 90
-        },
-        {
-          "displayID": "seeker-6months",
-          "displayMessage": "6 Months",
-          "price": 73.26,
-          "durationDays": 180
-        }
+        { "displayID": "client-lite-1month", "displayMessage": "1 Month", "price": 9.99, "durationDays": 30 },
+        { "displayID": "client-lite-3months", "displayMessage": "3 Months", "price": 24.99, "durationDays": 90 },
+        { "displayID": "client-lite-6months", "displayMessage": "6 Months", "price": 44.99, "durationDays": 180 }
       ],
-      "checks": 0,
-      "spotsLeft": 5,
-      "ID": "seeker",
+      "checks": 3,
+      "spotsLeft": 12,
+      "ID": "client-lite",
       "roleID": "1350544713085751337"
     },
     {
-      "name": "Pioneer",
+      "name": "Client Pro",
       "options": [
-        {
-          "displayID": "pioneer-1month",
-          "displayMessage": "1 Month",
-          "price": 25.61,
-          "durationDays": 30
-        },
-        {
-          "displayID": "pioneer-3months",
-          "displayMessage": "3 Months",
-          "price": 72.13,
-          "durationDays": 90
-        },
-        {
-          "displayID": "pioneer-6months",
-          "displayMessage": "6 Months",
-          "price": 144.26,
-          "durationDays": 180
-        }
+        { "displayID": "client-pro-1month", "displayMessage": "1 Month", "price": 12.99, "durationDays": 30 },
+        { "displayID": "client-pro-3months", "displayMessage": "3 Months", "price": 32.99, "durationDays": 90 },
+        { "displayID": "client-pro-6months", "displayMessage": "6 Months", "price": 57.99, "durationDays": 180 }
       ],
-      "checks": 300,
-      "spotsLeft": 10,
-      "ID": "pioneer",
+      "checks": -1,
+      "spotsLeft": 4,
+      "ID": "client-pro",
       "roleID": "1350544965779980439"
     }
   ],
   "serverTiers": [
     {
-      "name": "Pathfinder",
+      "name": "Server Lite",
       "options": [
-        {
-          "displayID": "pathfinder-1month",
-          "displayMessage": "1 Month",
-          "price": 32.42,
-          "durationDays": 30
-        },
-        {
-          "displayID": "pathfinder-3months",
-          "displayMessage": "3 Months",
-          "price": 94.26,
-          "durationDays": 90
-        },
-        {
-          "displayID": "pathfinder-6months",
-          "displayMessage": "6 Months",
-          "price": 185.52,
-          "durationDays": 180
-        }
+        { "displayID": "server-lite-1month", "displayMessage": "1 Month", "price": 14.99, "durationDays": 30 },
+        { "displayID": "server-lite-3months", "displayMessage": "3 Months", "price": 37.99, "durationDays": 90 },
+        { "displayID": "server-lite-6months", "displayMessage": "6 Months", "price": 64.99, "durationDays": 180 }
       ],
-      "checks": 450,
-      "spotsLeft": 23,
-      "realTimeChecker": true,
-      "ID": "pathfinder",
+      "checks": 3,
+      "spotsLeft": 8,
+      "realTimeChecker": false,
+      "ID": "server-lite",
+      "roleID": "1350544908695502958"
+    },
+    {
+      "name": "Server Pro",
+      "options": [
+        { "displayID": "server-pro-1month", "displayMessage": "1 Month", "price": 19.99, "durationDays": 30 },
+        { "displayID": "server-pro-3months", "displayMessage": "3 Months", "price": 49.99, "durationDays": 90 },
+        { "displayID": "server-pro-6months", "displayMessage": "6 Months", "price": 89.99, "durationDays": 180 }
+      ],
+      "checks": -1,
+      "spotsLeft": 2,
+      "realTimeChecker": false,
+      "ID": "server-pro",
       "roleID": "1339772294066602024"
     }
   ]
