@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "About Exton Server Pass",
-      "description": "Looking to boost your community's safety and efficiency? With the Server Pass, your Discord gets full access to the Exton system – ideal for teams and growing projects. Run Twitter checks directly from your server, monitor reused usernames, and get scam alerts in real-time (soon). Give your roles the tools they need to keep everyone safe.",
+      "description": "Looking to boost your community's safety and efficiency? With the Server Pass, your Discord gets full access to the Exton system – ideal for teams and growing projects. Give your community the tools they need to stay ahead.",
       "color": null
     },
     {
@@ -12,8 +12,12 @@
       "color": 5810431,
       "fields": [
         {
-          "name": "Pathfinder (**6% off** → $94.26 for 3 months! :tada: or $32.42 per month)",
-          "value": ":white_check_mark: Unlimited reused username checks\n:white_check_mark: Allows specific roles to run Twitter checks directly in your server\n:white_check_mark: Twitter Monitor with no usage limits (Beta)\n:white_check_mark: Access to exclusive role and giveaways\n:white_check_mark: Real-time scam checker when a new member joins (coming soon)\n:white_check_mark: Automated raffle entries via AlphaBot(Limit: 2 accounts per Pass)\n\n:hourglass_flowing_sand: Only 23 spots available"
+          "name": "Server Lite (**15% off** → $12.66 per month! :tada: Total $37.99 for 3 months)",
+          "value": ":white_check_mark: 3 reused username checks per month\n:white_check_mark: Twitter Monitor in the server\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 1 account)\n\n:hourglass_flowing_sand: Only 8 spots available"
+        },
+        {
+          "name": "Server Pro (**16% off** → $16.66 per month! :tada: Total $49.99 for 3 months)",
+          "value": ":white_check_mark: Unlimited reused username checks\n:white_check_mark: Full bot installation and access in your community\n:white_check_mark: Allows specific roles to run Twitter checks directly in your server\n:white_check_mark: Twitter Monitor with no usage limits (Beta)\n:white_check_mark: Access to exclusive collections and VIP giveaways on Rego Raffles\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 5 accounts)\n\n:hourglass_flowing_sand: Only 2 spots available"
         }
       ]
     }
