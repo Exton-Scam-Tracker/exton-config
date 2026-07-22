@@ -11,14 +11,14 @@
       "description": ":warning: *Repeated checks don't count. For more details, see our [docs](https://exton-scam-tracker.gitbook.io/docs) to review our terms and services.*\n\n:warning: *Also, spots are limited to maintain optimal server performance and ensure dedicated support for all users*",
       "color": 5810431,
       "fields": [
-          {
-            "name": "Client Lite (**16% off** → $8.33 per month! :tada: Total $24.99 for 3 months)",
-            "value": ":white_check_mark: 3 reused username history checks\n:white_check_mark: Special Client Lite role\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 1 account)\n\n:hourglass_flowing_sand: Only 19 spots available"
-          },
-          {
-            "name": "Client Pro (**15% off** → $10.99 per month! :tada: Total $32.99 for 3 months)",
-            "value": ":white_check_mark: Unlimited reused username history checks (via DM or Exton official Discord)\n:white_check_mark: Twitter Monitor with no limits (Beta)\n:white_check_mark: Access to exclusive collections and VIP giveaways on Rego Raffles\n:white_check_mark: Special Client Pro role\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 5 accounts)\n\n:hourglass_flowing_sand: Only 19 spots available"
-          }
+        {
+          "name": "Client Lite (**3% off** → $3.33 per month! :tada: Total $10.00 for 3 months)",
+          "value": ":white_check_mark: 3 reused username history checks\n:white_check_mark: Special Client Lite role\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 1 account)\n\n:hourglass_flowing_sand: Only 19 spots available"
+        },
+        {
+          "name": "Client Pro (**28% off** → $9.33 per month! :tada: Total $28.00 for 3 months)",
+          "value": ":white_check_mark: Unlimited reused username history checks (via DM or Exton official Discord)\n:white_check_mark: Twitter Monitor with no limits (Beta)\n:white_check_mark: Access to exclusive collections and VIP giveaways on Rego Raffles\n:white_check_mark: Special Client Pro role\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 5 accounts)\n\n:hourglass_flowing_sand: Only 19 spots available"
+        }
       ]
     }
   ],
