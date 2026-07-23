@@ -3,8 +3,8 @@
     {
       "name": "Client Lite",
       "options": [
-        { "displayID": "client-lite-1month", "displayMessage": "1 Month", "price": 9.99, "durationDays": 30 },
-        { "displayID": "client-lite-3months", "displayMessage": "3 Months", "price": 24.99, "durationDays": 90 },
+        { "displayID": "client-lite-1month", "displayMessage": "1 Month", "price": 10.0, "durationDays": 30 },
+        { "displayID": "client-lite-3months", "displayMessage": "3 Months", "price": 25.5, "durationDays": 90 },
         { "displayID": "client-lite-6months", "displayMessage": "6 Months", "price": 44.99, "durationDays": 180 }
       ],
       "checks": 3,
@@ -15,8 +15,8 @@
     {
       "name": "Client Pro",
       "options": [
-        { "displayID": "client-pro-1month", "displayMessage": "1 Month", "price": 12.99, "durationDays": 30 },
-        { "displayID": "client-pro-3months", "displayMessage": "3 Months", "price": 32.99, "durationDays": 90 },
+        { "displayID": "client-pro-1month", "displayMessage": "1 Month", "price": 11.99, "durationDays": 30 },
+        { "displayID": "client-pro-3months", "displayMessage": "3 Months", "price": 30.57, "durationDays": 90 },
         { "displayID": "client-pro-6months", "displayMessage": "6 Months", "price": 57.99, "durationDays": 180 }
       ],
       "checks": -1,
@@ -29,8 +29,8 @@
     {
       "name": "Server Lite",
       "options": [
-        { "displayID": "server-lite-1month", "displayMessage": "1 Month", "price": 14.99, "durationDays": 30 },
-        { "displayID": "server-lite-3months", "displayMessage": "3 Months", "price": 37.99, "durationDays": 90 },
+        { "displayID": "server-lite-1month", "displayMessage": "1 Month", "price": 14.0, "durationDays": 30 },
+        { "displayID": "server-lite-3months", "displayMessage": "3 Months", "price": 39.9, "durationDays": 90 },
         { "displayID": "server-lite-6months", "displayMessage": "6 Months", "price": 64.99, "durationDays": 180 }
       ],
       "checks": 3,
