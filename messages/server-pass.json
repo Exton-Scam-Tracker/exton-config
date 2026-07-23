@@ -12,11 +12,11 @@
       "color": 5810431,
       "fields": [
         {
-          "name": "Server Lite (**5% off** → $14.25 per month! :tada: Total $42.75 for 3 months)",
+          "name": "Server Lite (Base: $14.00/mo | **5% off** → $13.30/mo on the 3-month plan! :tada: Total $39.90)",
           "value": ":white_check_mark: 3 reused username checks per month\n:white_check_mark: Twitter Monitor in the server\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 1 account)\n\n:hourglass_flowing_sand: Only 8 spots available"
         },
         {
-          "name": "Server Pro (**16% off** → $16.66 per month! :tada: Total $49.99 for 3 months)",
+          "name": "Server Pro (Base: $19.99/mo | **16% off** → $16.66/mo on the 3-month plan! :tada: Total $49.99)",
           "value": ":white_check_mark: Unlimited reused username checks\n:white_check_mark: Full bot installation and access in your community\n:white_check_mark: Allows specific roles to run Twitter checks directly in your server\n:white_check_mark: Twitter Monitor with no usage limits (Beta)\n:white_check_mark: Access to exclusive collections and VIP giveaways on Rego Raffles\n:white_check_mark: Automated raffle entries via AlphaBot (Limit: 5 accounts)\n\n:hourglass_flowing_sand: Only 8 spots available"
         }
       ]
