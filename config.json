@@ -29,8 +29,8 @@
     {
       "name": "Server Lite",
       "options": [
-        { "displayID": "server-lite-1month", "displayMessage": "1 Month", "price": 14.0, "durationDays": 30 },
-        { "displayID": "server-lite-3months", "displayMessage": "3 Months", "price": 39.9, "durationDays": 90 },
+        { "displayID": "server-lite-1month", "displayMessage": "1 Month", "price": 15.0, "durationDays": 30 },
+        { "displayID": "server-lite-3months", "displayMessage": "3 Months", "price": 42.75, "durationDays": 90 },
         { "displayID": "server-lite-6months", "displayMessage": "6 Months", "price": 64.99, "durationDays": 180 }
       ],
       "checks": 3,
